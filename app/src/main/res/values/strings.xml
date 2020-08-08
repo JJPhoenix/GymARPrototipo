@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GymARPrototipo</string>
+
+    <string name="exercise">Prueba</string>
+    <string name="title_activity_prueba_ra">prueba_ra</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="welcome">Welcome!</string>
+    <string name="level_label">Level:</string>
+    <string name="level_basic">Basic</string>
+
+    <string name="user_test">Juan Javier</string>
+</resources>
