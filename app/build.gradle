@@ -59,7 +59,11 @@ sceneform.asset('sampledata/rp_nathan_animated_003_walking.fbx',
         'default',
         'sampledata/rp_nathan_animated_003_walking.sfa',
         'src/main/assets/rp_nathan_animated_003_walking')*/
-sceneform.asset('sampledata/sport_w_01_warmup_01.fbx',
+/*sceneform.asset('sampledata/sport_w_01_warmup_01.fbx',
         'default',
         'sampledata/sport_w_01_warmup_01.sfa',
-        'src/main/assets/sport_w_01_warmup_01')
+        'src/main/assets/sport_w_01_warmup_01')*/
+sceneform.asset('sampledata/rp_sophia_animated_003_idling.fbx',
+        'default',
+        'sampledata/rp_sophia_animated_003_idling.sfa',
+        'src/main/assets/rp_sophia_animated_003_idling')

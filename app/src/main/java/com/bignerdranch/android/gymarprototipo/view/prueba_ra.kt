@@ -24,7 +24,7 @@ class prueba_ra : AppCompatActivity() {
 
         arFragment = supportFragmentManager.findFragmentById(R.id.sceneform_fragment) as ArFragment
 
-        exercise_prueba.setOnClickListener { selectedObject = Uri.parse("file:///android_asset/sport_w_01_warmup_01.sfb")}
+        exercise_prueba.setOnClickListener { selectedObject = Uri.parse("file:///android_asset/rp_sophia_animated_003_idling.sfb")}
 
         arFragment.setOnTapArPlaneListener{ hitResult, plane, motionEvent ->
             if (plane.type == Plane.Type.HORIZONTAL_UPWARD_FACING){

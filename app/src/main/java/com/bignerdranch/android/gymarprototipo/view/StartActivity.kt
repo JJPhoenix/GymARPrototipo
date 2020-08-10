@@ -1,5 +1,6 @@
 package com.bignerdranch.android.gymarprototipo.view
 
+import android.content.Intent
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
@@ -17,7 +18,9 @@ class StartActivity:AppCompatActivity() {
         startButton = findViewById(R.id.get_started)
 
         startButton.setOnClickListener {
-            Toast.makeText(this,R.string.test_screen, Toast.LENGTH_SHORT).show()
+            val intent = Intent(this,
+            MainActivity::class.java)
+            startActivity(intent)
         }
     }
 }

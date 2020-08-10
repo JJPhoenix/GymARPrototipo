@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Trainer-Home</string>
 
-    <string name="exercise">Prueba</string>
+    <string name="exercise">Pruebas</string>
     <string name="title_activity_prueba_ra">prueba_ra</string>
     <!-- Strings used for fragments for navigation -->
 
@@ -16,7 +16,11 @@
     <string name="home_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam venenatis, felis in</string>
     <string name="home_start_button">Get Started</string>
 
-
+    <!--Activity main-->
+    <string name="sub_tittle">Exercise</string>
+    <string name="card_primary_tittle">Pruebas</string>
+    <string name="main_date">Web 14 Oct</string>
+    <string name="user_name">Hi, Juan Javier</string>
 
     <!--Test para la generacion de pantallas-->
     <string name="test_screen">START!!</string>

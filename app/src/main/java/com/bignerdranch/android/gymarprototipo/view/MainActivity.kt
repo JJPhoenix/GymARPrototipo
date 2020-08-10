@@ -14,13 +14,12 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        /*pruebaButton = findViewById(R.id.exercise)
+        pruebaButton = findViewById(R.id.exercise)
 
         pruebaButton.setOnClickListener{
             val intent = Intent(this,
                 prueba_ra::class.java)
             startActivity(intent)
-        }*/
-
+        }
     }
 }
