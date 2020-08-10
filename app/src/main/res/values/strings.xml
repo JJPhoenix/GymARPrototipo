@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GymARPrototipo</string>
+    <string name="app_name">Trainer-Home</string>
 
     <string name="exercise">Prueba</string>
     <string name="title_activity_prueba_ra">prueba_ra</string>
@@ -10,4 +10,14 @@
     <string name="level_basic">Basic</string>
 
     <string name="user_test">Juan Javier</string>
+
+    <!--Home page-->
+    <string name="home_title">WELCOME TO Trainer-Home app</string>
+    <string name="home_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam venenatis, felis in</string>
+    <string name="home_start_button">Get Started</string>
+
+
+
+    <!--Test para la generacion de pantallas-->
+    <string name="test_screen">START!!</string>
 </resources>
