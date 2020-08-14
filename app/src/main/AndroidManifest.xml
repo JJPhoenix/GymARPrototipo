@@ -17,7 +17,8 @@
         android:supportsRtl="true"
         android:theme="@style/FullScreen">
         <activity
-            android:name=".view.prueba_ra"
+            android:name=".view.TrainerActivity"
+            android:screenOrientation="portrait"
             android:label="@string/title_activity_prueba_ra"/>
         <activity
             android:name=".view.MainActivity"

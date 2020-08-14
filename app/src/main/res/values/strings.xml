@@ -3,6 +3,8 @@
 
     <string name="exercise">Pruebas</string>
     <string name="title_activity_prueba_ra">prueba_ra</string>
+    <string name="golpe_alto">Golpe</string>
+    <string name="golpe_alto2">Golpe nuevo</string>
     <!-- Strings used for fragments for navigation -->
 
     <string name="welcome">Welcome!</string>
