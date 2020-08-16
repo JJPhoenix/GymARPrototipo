@@ -3,27 +3,21 @@
 
     <string name="exercise">Pruebas</string>
     <string name="title_activity_prueba_ra">prueba_ra</string>
-    <string name="golpe_alto">Golpe</string>
-    <string name="golpe_alto2">Golpe nuevo</string>
     <!-- Strings used for fragments for navigation -->
-
-    <string name="welcome">Welcome!</string>
-    <string name="level_label">Level:</string>
-    <string name="level_basic">Basic</string>
-
-    <string name="user_test">Juan Javier</string>
 
     <!--Home page-->
     <string name="home_title">WELCOME TO Trainer-Home app</string>
-    <string name="home_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam venenatis, felis in</string>
+    <string name="home_description">Convierte a tu smartphone en tu entrenador personal.</string>
     <string name="home_start_button">Get Started</string>
 
     <!--Activity main-->
     <string name="sub_tittle">Exercise</string>
-    <string name="card_primary_tittle">Pruebas</string>
+    <string name="card_primary_tittle">Resumen</string>
+    <string name="card_primary_description">Presentar un resumen de las actividades ya realizadas por el usuario</string>
     <string name="main_date">Web 14 Oct</string>
     <string name="user_name">Hi, Juan Javier</string>
 
-    <!--Test para la generacion de pantallas-->
-    <string name="test_screen">START!!</string>
+    <!--Activity trainer-->
+    <string name="golpe_alto">Animacion 1</string>
+    <string name="golpe_alto2">Animacion 2</string>
 </resources>
